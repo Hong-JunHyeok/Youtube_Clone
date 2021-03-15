@@ -1,18 +1,10 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+# Youtube clone
 
-To use this application, 
+## MERN 스택이란?
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+- M(MongoDB)
+- E(Express)
+- R(React)
+- N(Node.js)
 
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
+![image](https://user-images.githubusercontent.com/48292190/111111214-493e9880-85a1-11eb-96ea-0d711f4ed2fe.png)
